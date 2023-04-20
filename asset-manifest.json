@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contador-de-Clicks/static/css/main.bf8c3296.css",
+    "main.js": "/Contador-de-Clicks/static/js/main.6d50a851.js",
+    "static/media/clickar.png": "/Contador-de-Clicks/static/media/clickar.f76fe24a84f09eb4d5e3.png",
+    "index.html": "/Contador-de-Clicks/index.html",
+    "main.bf8c3296.css.map": "/Contador-de-Clicks/static/css/main.bf8c3296.css.map",
+    "main.6d50a851.js.map": "/Contador-de-Clicks/static/js/main.6d50a851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf8c3296.css",
+    "static/js/main.6d50a851.js"
+  ]
+}
